@@ -1,7 +1,11 @@
 # 🛡️ PoF-KS-RB-EP V2
 ## Cyber Defense, Forensic Evidence & Resilient Recovery
 
-> **Public overview / Présentation publique**  
+> **Public overview / Présentation publique**
+
+Evidence-based cyber defense, resilient recovery, and controlled incident response.
+
+  
 > This repository presents the public vision of PoF-KS-RB-EP V2. Sensitive implementation details, defensive rules, internal thresholds, credentials, operational procedures and proprietary security mechanisms are intentionally not disclosed.  
 > Ce dépôt présente la vision publique de PoF-KS-RB-EP V2. Les détails d’implémentation sensibles, règles défensives, seuils internes, identifiants, procédures opérationnelles et mécanismes de sécurité propriétaires ne sont volontairement pas divulgués.
 
